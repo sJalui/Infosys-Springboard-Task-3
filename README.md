@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Screenshot]()
+![Screenshot](https://github.com/sJalui/Infosys-Springboard-Task-3/blob/main/Screenshot%202024-12-20%20020237.png?raw=true)
 
 # ✨ Product Performance Dashboard with Power BI | Infosys Springboard Task 3 
 
