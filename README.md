@@ -22,12 +22,6 @@ Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Prod
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
 
-
-
-## Task 2
-```
-# Power BI Dashboard: Product Performance Analysis
-
 ## Dataset Overview:
 You will use a dataset with the following columns:
 - **Product ID**
@@ -45,8 +39,6 @@ You will use a dataset with the following columns:
 ### 1. Data Import and Preparation
 - Load the dataset into Power BI.
 - Create a new calculated column for **Profit Margin** using the following formula:
-
-
 - Ensure all columns are correctly formatted (e.g., ensure numerical columns like Sales Amount, Cost, and Profit are in number format, and Date is in Date format).
 
 ### 2. Visualizations
@@ -92,6 +84,4 @@ Add the following filters and slicers to allow for advanced analysis:
 
 ## Submission Guidelines:
 - Save your Power BI file as `StudentName_ProductPerformance.pbix`.
-
-```
 
